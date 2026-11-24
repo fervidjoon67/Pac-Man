@@ -48,8 +48,3 @@ Every maze wall, character, and effect was custom-designed in the MakeCode Arcad
 * **Engine:** [Microsoft MakeCode Arcade](https://makecode.com)
 * **Core Concepts Used:** Tilemap Maze Design, Score Variables, Overlap & Collision Events, Visual Screen Effects (`melt`), `for` Loops & Functions
 * **Developer:** 2nd Grade Elementary School Student (Me!!) 👦👧
-
----
-> 💡 **GitHub Upload Checklist:** 
-> 1. Replace `여기에_공유된_게임_링크를_넣어주세요` with your published MakeCode Arcade URL!
-> 2. Upload your screenshot (`pacman-gameplay.png`) and asset images (`pacman.png`, `ghost.png`, `maze-wall.png`, `dot.png`) to your GitHub repository.
