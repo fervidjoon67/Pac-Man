@@ -1,6 +1,6 @@
 # 🟡 팩맨 (Pac-Man)
 
-[![Play Game]([https://shields.io🕹️_Play_Game_Now-MakeCode_Arcade-ffcc00?style=for-the-badge](https://arcade.makecode.com/S00611-62778-62696-33937))]
+[![Play Game](https://arcade.makecode.com/S00611-62778-62696-33937)
 
 > 🚀 **Click the button above to play my Pac-Man game directly in your web browser!**
 
