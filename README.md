@@ -21,7 +21,7 @@ Every maze wall, character, and effect was custom-designed in the MakeCode Arcad
 | :---: | :---: | :--- |
 | <img src="./pacman.png" width="64"/> | **Pac-Man** | **Player Character:** Controlled by the player to navigate through the dark maze and collect points. |
 | <img src="./ghost.png" width="64"/> | **Maze Ghost** | **Enemy AI:** Roams the maze corridors to chase or block Pac-Man. |
-| <img src="./maze-wall.png" width="64"/> | **Orange Maze Wall** | **Tilemap Barrier:** Classic retro-style orange maze walls set against a pitch-black arcade background. |
+| <img src="./maze-wall.png" width="64"/> | **Maze Wall** | **Tilemap Barrier:** Classic retro-style maze walls set against a pitch-black arcade background. |
 | <img src="./dot.png" width="64"/> | **Score Pellet** | **Collectible Item:** Increases the player's score (`Score: 44+`) when eaten inside the maze. |
 
 ---
