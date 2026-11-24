@@ -1,6 +1,6 @@
 # 🟡 팩맨 (Pac-Man)
 
-[![Play Game](https://arcade.makecode.com/S00611-62778-62696-33937)
+Direct Link: [https://arcade.makecode.com/S00611-62778-62696-33937](https://arcade.makecode.com/S00611-62778-62696-33937)
 
 > 🚀 **Click the button above to play my Pac-Man game directly in your web browser!**
 
